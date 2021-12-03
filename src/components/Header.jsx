@@ -3,7 +3,7 @@ function Header(props) {
         <div className="header">
             <div className="nav-bar cols bounds">
                 <div className="title col">
-                    <img src="/images/logo.png" width="260" height="120" alt="" />
+                    Mafia Lords
                 </div>
                 <div className="nav-links col">
                     <a href="#about">About MafiaLords</a>
