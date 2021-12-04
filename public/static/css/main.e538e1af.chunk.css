@@ -1407,7 +1407,9 @@ code,pre,samp {
 body,html {
     color: #fff;
     background-color: #000;
-    background-image: url(/static/media/bg-space.40283b65.png)
+    background-image: url(/static/media/bg-space.40283b65.png);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 html {
